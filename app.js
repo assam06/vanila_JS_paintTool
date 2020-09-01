@@ -89,9 +89,8 @@ function handleSaveClick() {
 
   link.download = "PaintJS[🎨]";
   link.click();
-  /*5. download는 'a'(anchor)태그의 attribute
-  download는 browser에게 다운로드하라고 명령함. 거기 가라는게 아니라
-  */
+  /*5. download는 'a'(anchor)태그의 attribute. download는 browser에게 다운로드하라고 명령함. 거기 가라는게 아니라
+   */
 }
 
 if (canvas) {
